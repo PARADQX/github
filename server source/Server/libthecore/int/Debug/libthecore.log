@@ -1,0 +1,29 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  xmd5.c
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\xmd5.c(89,14): warning C4996: 'read': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _read. See online help for details.
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\xmd5.c(93,2): warning C4996: 'close': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _close. See online help for details.
+  xgetopt.c
+  xdirent.c
+  utils.c
+  tea.c
+  socket.c
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\socket.c(251,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\socket.c(256,13): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  signal.c
+  memcpy.c
+  main.c
+  log.c
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\log.c(262,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\src\log.c(320,26): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  kstbl.c
+  heart.c
+  hangul.c
+  gost_old.c
+  gost.c
+  fdwatch.c
+  des.c
+  buffer.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1551,5): warning MSB8012: TargetPath(D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\lib\libthecore.lib) does not match the Library's OutputFile property value (D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\lib\libthecore_d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetName(libthecore) does not match the Library's OutputFile property value (libthecore_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  libthecore.vcxproj -> D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libthecore\lib\libthecore.lib

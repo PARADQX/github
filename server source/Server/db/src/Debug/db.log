@@ -1,0 +1,68 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  version.cpp
+  ProtoReader.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(428,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(470,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(507,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(541,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(869,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(912,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\ProtoReader.cpp(945,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PrivManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  PeerBase.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\PeerBase.cpp(54,25): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\PeerBase.cpp(57,42): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\PeerBase.cpp(67,2): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\PeerBase.cpp(82,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Peer.cpp
+  NetBase.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  MoneyLog.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Monarch.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Marriage.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Main.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  LoginData.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Lock.cpp
+  ItemIDRangeManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ItemAwardManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  HB.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  GuildManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libsql\AsyncSQL.h(11,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  grid.cpp
+  DBManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  CsvReader.cpp
+  Config.cpp
+  Generating Code...
+  Compiling...
+  ClientManagerPlayer.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerParty.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerLogin.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerHorseName.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerGuild.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerEventFlag.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManagerBoot.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  ClientManager.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Cache.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  BlockCountry.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\db\src\DBManager.h(5,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  AuctionManager.cpp
+  Generating Code...

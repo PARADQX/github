@@ -1,0 +1,12 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  targa.cc
+  grid.cc
+  attribute.cc
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\src\attribute.cc(69,21): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\src\attribute.cc(82,21): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\src\attribute.cc(137,23): warning C4244: '=': conversion from 'DWORD' to 'BYTE', possible loss of data
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\src\attribute.cc(143,23): warning C4244: '=': conversion from 'DWORD' to 'WORD', possible loss of data
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1551,5): warning MSB8012: TargetPath(D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\lib\libgame.lib) does not match the Library's OutputFile property value (D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\lib\libgame_d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetName(libgame) does not match the Library's OutputFile property value (libgame_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  libgame.vcxproj -> D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libgame\lib\libgame.lib

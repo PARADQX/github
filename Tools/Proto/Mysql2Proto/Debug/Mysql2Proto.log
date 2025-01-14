@@ -1,0 +1,13 @@
+﻿cl : komut satırı  warning D9035: 'Gm' seçeneği kullanım dışı ve ileride yayınlanacak bir sürümden çıkarılacak
+cl : komut satırı  warning D9007: '/Gm', '/Zi veya /ZI' gerektiriyor; seçenek yoksayıldı
+  Mysql2Proto.cpp
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(186,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(349,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(541,98): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(778,65): warning C4474: 'fprintf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(782,13): warning C4091: 'static ': hiçbir değişken bildirimi yapılmadığında 'optionIndex' solunda yoksayılır
+  lzo.cpp
+  tea.cpp
+  Kod Üretiliyor...
+lzo_debug.lib(lzo_init.obj) : warning LNK4075: '/EDITANDCONTINUE' belirtimi nedeniyle '/OPT:ICF' yoksayılıyor
+  Mysql2Proto.vcxproj -> C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\bin\Mysql2Proto_Debug.exe

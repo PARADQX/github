@@ -1,0 +1,9 @@
+if pc . in_dungeon ( ) and pc . get_map_index ( ) >= 660000 and pc . get_map_index ( ) < 670000 then d . kill_all ( ) 
+d . spawn_mob ( 20074 , 609 , 179 ) ; 
+d . spawn_mob ( 20075 , 609 , 172 ) ; 
+d . spawn_mob ( 20076 , 609 , 185 ) ; 
+d . setqf ( "can_refine" , 1 ) 
+notice_all ( "" .. pc . get_name ( ) .. " Grubu Mavi Olumu maglup etti." ) 
+d . notice ( "10 dakika icinde isinlanacaksin." ) 
+server_timer ( "devil_end_jump" , 120 , d . get_map_index ( ) ) 
+ return end 

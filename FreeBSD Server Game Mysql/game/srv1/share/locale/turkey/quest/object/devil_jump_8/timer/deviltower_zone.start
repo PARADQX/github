@@ -1,0 +1,13 @@
+d . setf ( "level" , 8 ) 
+local plusone = d . getf ( "check" ) + 1 
+d . setf ( "check" , plusone ) 
+d . jump_all ( 2048 + 590 , 6656 + 403 ) 
+d . set_regen_file ( "data/dungeon/deviltower8_regen.txt" ) 
+d . spawn_mob ( 20366 , 640 , 460 ) 
+local _count = pc . count_item ( 30302 ) 
+pc . remove_item ( 30302 , _count ) 
+if d . getf ( "check" ) ~= 1 then 
+d . notice ( "Bug kullanimi tespit edildi, disari gönderiliyorsun!" ) 
+d . clear_regen ( ) 
+d . exit_all ( ) 
+end 

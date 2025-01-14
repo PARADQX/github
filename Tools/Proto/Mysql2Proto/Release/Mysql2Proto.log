@@ -1,0 +1,13 @@
+﻿  Mysql2Proto.cpp
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(186,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(349,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(541,98): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(778,65): warning C4474: 'fprintf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\Mysql2Proto\Mysql2Proto.cpp(782,13): warning C4091: 'static ': hiçbir değişken bildirimi yapılmadığında 'optionIndex' solunda yoksayılır
+  lzo.cpp
+  tea.cpp
+  Kod Üretiliyor...
+  lzo_release.lib(lzo_init.obj) : /GL ile derlenmiş MSIL .netmodule veya modül bulundu; bağlantı /LTCG ile yeniden başlatılıyor; bağlayıcı performansını artırmak için bağlantı komut satırına /LTCG ekleyin
+  Kod üretiliyor
+  Kodun üretilmesi tamamlandı
+  Mysql2Proto.vcxproj -> C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\bin\Mysql2Proto_Release.exe

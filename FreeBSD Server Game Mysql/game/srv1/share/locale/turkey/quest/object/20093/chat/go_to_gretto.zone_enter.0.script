@@ -1,0 +1,17 @@
+if pc . level < 75 then 
+say_title ( "Koe-Pung:" ) 
+say ( "" ) 
+say ( "75. seviyenin altýnda oldugun için" ) 
+say ( "seni buz zindanýna ýþýnlayamam.." ) 
+return 
+end 
+say_title ( "Koe-Pung:" ) 
+say ( "Dur! Ben Ejderha Mezhebinden Koe-Pung," ) 
+say ( "bu kapýnýn bekçisiyim. Sadece mezhebin" ) 
+say ( "iznini alýrsan geçebilirsin!" ) 
+wait ( ) 
+say_title ( "" .. mob_name ( 20093 ) .. "" ) 
+say ( "Ejderha Tanrý seni seçti." ) 
+say ( "O her zaman seni izliyor olmalý!" ) 
+wait ( ) 
+pc . warp ( 10000 , 1.2132e+06 ) 

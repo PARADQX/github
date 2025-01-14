@@ -1,0 +1,12 @@
+local amount = item . get_value ( 0 ) 
+if pc . is_busy0 ( ) == true then 
+say_title ( "EP Kuponu: " ) 
+say ( "" ) 
+say_reward ( "Meþgul durumda olduðunuz için EP Kuponunu kullanamazsýnýz." ) 
+elseif pc . is_dead ( ) == true then 
+say_title ( "EP Kuponu: " ) 
+say ( "" ) 
+say_reward ( "Ölü durumda olduðunuz için EP Kuponunu kullanamazsýnýz." ) 
+else 
+charge_cash_by_voucher . charge ( amount , "cash" ) 
+end 

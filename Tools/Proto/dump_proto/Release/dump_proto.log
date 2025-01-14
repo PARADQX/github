@@ -1,0 +1,14 @@
+﻿  CsvFile.cpp
+  dump_proto.cpp
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(186,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(349,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\dump_proto\dump_proto.cpp(782,98): warning C4474: 'printf' : biçim dizesi için çok fazla sayıda bağımsız değişken geçirildi
+  ItemCSVReader.cpp
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(186,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterBase\filename.h(349,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lzo.cpp
+  tea.cpp
+  Kod Üretiliyor...
+  Kod üretiliyor
+  Kodun üretilmesi tamamlandı
+  dump_proto.vcxproj -> C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\tools\Proto\bin\DumpProto_Release.exe

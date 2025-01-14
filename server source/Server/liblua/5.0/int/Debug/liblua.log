@@ -1,0 +1,35 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ltablib.c
+  lstrlib.c
+  loadlib.c
+  lmathlib.c
+  liolib.c
+  ldblib.c
+  lbaselib.c
+  lauxlib.c
+  lzio.c
+  lvm.c
+  lundump.c
+  ltm.c
+  ltests.c
+  ltable.c
+  lstring.c
+  lstate.c
+  lparser.c
+  lopcodes.c
+  lobject.c
+  lmem.c
+  Generating Code...
+  Compiling...
+  llex.c
+  lgc.c
+  lfunc.c
+  ldump.c
+  ldo.c
+  ldebug.c
+  lcode.c
+  lapi.c
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1551,5): warning MSB8012: TargetPath(D:\Workshop\Metin2\TurkmmoSF\source\server\Server\liblua\5.0\lib\liblua.lib) does not match the Library's OutputFile property value (D:\Workshop\Metin2\TurkmmoSF\source\server\Server\liblua\5.0\lib\liblua_d.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1553,5): warning MSB8012: TargetName(liblua) does not match the Library's OutputFile property value (liblua_d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  liblua.vcxproj -> D:\Workshop\Metin2\TurkmmoSF\source\server\Server\liblua\5.0\lib\liblua.lib

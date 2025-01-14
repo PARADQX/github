@@ -1,0 +1,3 @@
+d . spawn_mob ( 1095 , 609 , 179 ) ; 
+d . notice ( "Mavi Olum canlandi." ) 
+d . setqf ( "can_refine" , 1 ) 

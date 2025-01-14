@@ -1,0 +1,1 @@
+GENERAL WAIT bekle.msa 100

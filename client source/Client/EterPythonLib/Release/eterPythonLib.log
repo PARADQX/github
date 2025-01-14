@@ -1,0 +1,13 @@
+﻿  StdAfx.cpp
+  PythonGridSlotWindow.cpp
+  PythonSlotWindow.cpp
+  PythonWindow.cpp
+  PythonWindowManager.cpp
+  PythonWindowManagerModule.cpp
+  PythonGraphic.cpp
+  PythonGraphicImageModule.cpp
+  PythonGraphicModule.cpp
+  PythonGraphicTextModule.cpp
+  PythonGraphicThingModule.cpp
+  Kod Üretiliyor...
+  eterPythonLib.vcxproj -> C:\Users\ensar\OneDrive\Masaüstü\TurkmmoSFÇalışma1\TurkmmoSF\TurkmmoSF\TurkmmoSF-source\client\Client\eterPythonLib\Release\eterPythonLib.lib

@@ -1,0 +1,6 @@
+if item . vnum == 30304 then if d . getf ( "anahtar" ) == 1 then return end 
+npc . purge ( ) 
+pc . remove_item ( 30304 , 1 ) 
+d . setf ( "anahtar" , 1 ) 
+timer ( "devil_jump_9" , 8 ) 
+ return end 

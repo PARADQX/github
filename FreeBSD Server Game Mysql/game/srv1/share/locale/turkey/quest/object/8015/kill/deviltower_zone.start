@@ -1,0 +1,6 @@
+if pc . get_map_index ( ) == 66 then if party . is_party ( ) then 
+deviltower_zone . GrupKontrol ( ) 
+else 
+timer ( "devil_stone1_1" , 2 ) 
+end 
+ return end 

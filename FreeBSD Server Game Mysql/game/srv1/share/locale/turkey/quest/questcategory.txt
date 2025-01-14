@@ -1,0 +1,2 @@
+5	guild_war_observer
+0	guild_war_join

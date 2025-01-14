@@ -1,0 +1,56 @@
+ScriptType               MotionData
+
+MotionFileName           "d:/ymir work/monster2/esgaroth_boss_dt1_2/skill1.gr2"
+MotionDuration           4.500000
+Accumulation           0.00	0.00	0.00
+
+Group MotionEventData
+{
+    MotionEventDataCount     3
+    Group Event00
+    {
+        MotionEventType      1
+        StartingTime         0.526096
+        
+        IndependentFlag      0
+        AttachingEnable      1
+        AttachingBoneName    "Bip001-R-Finger41"
+        FollowingEnable      1
+        EffectFileName       "d:/ymir work/effect/monster2/czarna_kula.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+    }
+    Group Event01
+    {
+        MotionEventType      1
+        StartingTime         3.335073
+        
+        IndependentFlag      0
+        AttachingEnable      1
+        AttachingBoneName    "Bip001-L-Hand"
+        FollowingEnable      0
+        EffectFileName       "d:/ymir work/effect/monster2/impact_water2.mse"
+        EffectPosition       -100.000000 -290.000000 -50.000000
+    }
+	Group Event02
+    {
+        MotionEventType      4
+        StartingTime         0.846715
+        DuringTime           2.000000
+        EnableHitProcess     0
+        
+        AttackType           0
+        HittingType          2
+        StiffenTime          0.000000
+        InvisibleTime        3.000000
+        ExternalForce        0.000000
+        HitLimitCount        0
+        CollisionType        4
+        
+        SphereDataCount      1
+        Group SphereData00
+        {
+            Radius           450.000000
+            Position         0.000000 0.000000 0.000000
+        }
+    }
+}

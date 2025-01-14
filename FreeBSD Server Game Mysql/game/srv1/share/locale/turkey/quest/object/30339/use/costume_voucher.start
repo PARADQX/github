@@ -1,0 +1,36 @@
+say_title ( "Silah Görünüm Fiþi: " ) 
+say ( "" ) 
+say_reward ( "Silah kostümü almak için tip seç." ) 
+local s = select ( "Tek El" , "Býçak" , "Yay" , "Çift El" , "Çan" , "Yelpaze" , "Vazgeç " ) 
+local item = 40151 
+if pc . count_item ( 30339 ) < 1 then 
+say_title ( "Baþlýk Fiþi: " ) 
+say ( "" ) 
+say ( "Üzgünüm envanterinde silah görünüm fiþi bulamadým." ) 
+return 
+end 
+item = 0 
+if s == 1 then 
+item = 40108 
+elseif s == 2 then 
+item = 40109 
+elseif s == 3 then 
+item = 40110 
+elseif s == 4 then 
+item = 40111 
+elseif s == 5 then 
+item = 40112 
+elseif s == 6 then 
+item = 40113 
+elseif s == 7 then 
+return 
+end 
+if item == 0 then 
+return 
+end 
+say_title ( "Silah Görünüm Fiþi: " ) 
+say ( "" ) 
+say_reward ( string . format ( "Tebrikler , %s isimli nesneden 1 adet kazandýn." , item_name ( item ) ) ) 
+say_item_vnum ( item ) 
+pc . give_item2 ( item , 1 ) 
+pc . remove_item ( 30339 , 1 ) 

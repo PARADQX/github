@@ -1,0 +1,1179 @@
+Sep  4 12:31:48 :: 
+Start of pid: 868
+
+Sep  4 12:31:48 :: SYSTEM: BINDING TCP PORT ON [30007] (fd 12)
+Sep  4 12:31:48 :: SYSTEM: BINDING TCP PORT ON [30008] (fd 13)
+Sep  4 12:31:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:31:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:31:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:48 :: SPAM_CONFIG: duration 900 score 100 reload cycle 600
+
+Sep  4 12:31:48 :: AddGotoInfo(name=a1, empire=0, mapIndex=1, pos=(4693, 9642))
+Sep  4 12:31:48 :: AddGotoInfo(name=a3, empire=0, mapIndex=3, pos=(3608, 8776))
+Sep  4 12:31:48 :: AddGotoInfo(name=b1, empire=0, mapIndex=21, pos=(557, 1579))
+Sep  4 12:31:48 :: AddGotoInfo(name=b3, empire=0, mapIndex=23, pos=(1385, 2349))
+Sep  4 12:31:48 :: AddGotoInfo(name=c1, empire=0, mapIndex=41, pos=(9696, 2784))
+Sep  4 12:31:48 :: AddGotoInfo(name=c3, empire=0, mapIndex=43, pos=(8731, 2426))
+Sep  4 12:31:48 :: AddGotoInfo(name=snow, empire=1, mapIndex=61, pos=(4342, 2906))
+Sep  4 12:31:48 :: AddGotoInfo(name=snow, empire=2, mapIndex=61, pos=(3752, 1749))
+Sep  4 12:31:48 :: AddGotoInfo(name=snow, empire=3, mapIndex=61, pos=(4918, 1736))
+Sep  4 12:31:48 :: AddGotoInfo(name=flame, empire=1, mapIndex=62, pos=(5994, 7563))
+Sep  4 12:31:48 :: AddGotoInfo(name=flame, empire=2, mapIndex=62, pos=(5978, 6222))
+Sep  4 12:31:48 :: AddGotoInfo(name=flame, empire=3, mapIndex=62, pos=(7307, 6898))
+Sep  4 12:31:48 :: AddGotoInfo(name=desert, empire=1, mapIndex=63, pos=(2178, 6272))
+Sep  4 12:31:48 :: AddGotoInfo(name=desert, empire=2, mapIndex=63, pos=(2219, 5027))
+Sep  4 12:31:48 :: AddGotoInfo(name=desert, empire=3, mapIndex=63, pos=(3440, 5025))
+Sep  4 12:31:48 :: AddGotoInfo(name=wedding, empire=0, mapIndex=81, pos=(8250, 25))
+Sep  4 12:31:48 :: AddGotoInfo(name=three, empire=1, mapIndex=64, pos=(4021, 6739))
+Sep  4 12:31:48 :: AddGotoInfo(name=three, empire=2, mapIndex=64, pos=(2704, 7399))
+Sep  4 12:31:48 :: AddGotoInfo(name=three, empire=3, mapIndex=64, pos=(3213, 8080))
+Sep  4 12:31:48 :: AddGotoInfo(name=milgyo, empire=1, mapIndex=65, pos=(5536, 1436))
+Sep  4 12:31:48 :: AddGotoInfo(name=milgyo, empire=2, mapIndex=65, pos=(5536, 1436))
+Sep  4 12:31:48 :: AddGotoInfo(name=milgyo, empire=3, mapIndex=65, pos=(5536, 1436))
+Sep  4 12:31:48 :: AddGotoInfo(name=skel, empire=1, mapIndex=65, pos=(5905, 1108))
+Sep  4 12:31:48 :: AddGotoInfo(name=skel, empire=2, mapIndex=65, pos=(5905, 1108))
+Sep  4 12:31:48 :: AddGotoInfo(name=skel, empire=3, mapIndex=65, pos=(5905, 1108))
+Sep  4 12:31:48 :: AddGotoInfo(name=trent, empire=0, mapIndex=67, pos=(2887, 57))
+Sep  4 12:31:48 :: AddGotoInfo(name=trent2, empire=0, mapIndex=68, pos=(11199, 708))
+Sep  4 12:31:48 :: AddGotoInfo(name=sungzi, empire=0, mapIndex=114, pos=(9466, 250))
+Sep  4 12:31:48 :: AddGotoInfo(name=fp1, empire=0, mapIndex=115, pos=(10322, 1259))
+Sep  4 12:31:48 :: AddGotoInfo(name=fp2, empire=0, mapIndex=116, pos=(10322, 2283))
+Sep  4 12:31:48 :: AddGotoInfo(name=fp3, empire=0, mapIndex=117, pos=(10322, 2283))
+Sep  4 12:31:48 :: AddGotoInfo(name=fh1, empire=0, mapIndex=118, pos=(11514, 1824))
+Sep  4 12:31:48 :: AddGotoInfo(name=fh2, empire=0, mapIndex=119, pos=(11514, 2848))
+Sep  4 12:31:48 :: AddGotoInfo(name=fh3, empire=0, mapIndex=120, pos=(11514, 3872))
+Sep  4 12:31:48 :: AddGotoInfo(name=sungzisnow, empire=0, mapIndex=121, pos=(11970, 250))
+Sep  4 12:31:48 :: AddGotoInfo(name=fs1, empire=0, mapIndex=122, pos=(12001, 1679))
+Sep  4 12:31:48 :: AddGotoInfo(name=fs2, empire=0, mapIndex=123, pos=(12001, 2703))
+Sep  4 12:31:48 :: AddGotoInfo(name=fs3, empire=0, mapIndex=124, pos=(12001, 3727))
+Sep  4 12:31:48 :: AddGotoInfo(name=sungzidesert, empire=0, mapIndex=125, pos=(12738, 250))
+Sep  4 12:31:48 :: AddGotoInfo(name=fd1, empire=0, mapIndex=126, pos=(12513, 1679))
+Sep  4 12:31:48 :: AddGotoInfo(name=fd2, empire=0, mapIndex=127, pos=(12513, 2703))
+Sep  4 12:31:48 :: AddGotoInfo(name=fd3, empire=0, mapIndex=128, pos=(12513, 3727))
+Sep  4 12:31:48 :: AddGotoInfo(name=milgyomid|¹Ð±³»ç¿øÁß¾Ó, empire=0, mapIndex=65, pos=(5905, 1106))
+Sep  4 12:31:48 :: AddGotoInfo(name=sd3|°Å¹Ì3, empire=0, mapIndex=193, pos=(959, 5710))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc1|¾Æ±Í1, empire=0, mapIndex=216, pos=(3153, 12095))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc2|¾Æ±Í2, empire=0, mapIndex=216, pos=(3624, 12078))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc3|¾Æ±Í3, empire=0, mapIndex=216, pos=(4444, 12281))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc4|¾Æ±Í4, empire=0, mapIndex=216, pos=(3142, 12611))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc5|¾Æ±Í5, empire=0, mapIndex=216, pos=(3917, 12927))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc6|¾Æ±Í6, empire=0, mapIndex=216, pos=(4375, 12736))
+Sep  4 12:31:48 :: AddGotoInfo(name=dc7|¾Æ±Í7, empire=0, mapIndex=216, pos=(3145, 13188))
+Sep  4 12:31:48 :: AddGotoInfo(name=a4|±æµåºÎÁö1, empire=0, mapIndex=4, pos=(2048, 2048))
+Sep  4 12:31:48 :: AddGotoInfo(name=b4|±æµåºÎÁö2, empire=0, mapIndex=26, pos=(6144, 3840))
+Sep  4 12:31:48 :: AddGotoInfo(name=c4|±æµåºÎÁö3, empire=0, mapIndex=46, pos=(2560, 8192))
+Sep  4 12:31:48 :: AddGotoInfo(name=cape|¿ëµÎ°ù, empire=0, mapIndex=301, pos=(11043, 17885))
+Sep  4 12:31:48 :: AddGotoInfo(name=dawn|È¿¹«¸², empire=0, mapIndex=302, pos=(12263, 16811))
+Sep  4 12:31:48 :: AddGotoInfo(name=bay|Èæ»ç¸¸, empire=0, mapIndex=303, pos=(10869, 16558))
+Sep  4 12:31:48 :: AddGotoInfo(name=thunder|³ú¼º»ê, empire=0, mapIndex=304, pos=(11345, 16546))
+Sep  4 12:31:48 :: AddGotoInfo(name=½Å¹Ð±³, empire=0, mapIndex=78, pos=(1536, 10496))
+Sep  4 12:31:48 :: AddGotoInfo(name=½Åµµ¿°, empire=0, mapIndex=75, pos=(4608, 10496))
+Sep  4 12:31:48 :: AddGotoInfo(name=½Å¼­ÇÑ, empire=0, mapIndex=74, pos=(0, 10496))
+Sep  4 12:31:48 :: AddGotoInfo(name=½Å½Â·æ, empire=0, mapIndex=77, pos=(6144, 10496))
+Sep  4 12:31:48 :: AddGotoInfo(name=½Å¼ö¼º, empire=0, mapIndex=181, pos=(9728, 1024))
+Sep  4 12:31:48 :: AddGotoInfo(name=Áø³ë¼º, empire=0, mapIndex=182, pos=(9216, 1536))
+Sep  4 12:31:48 :: AddGotoInfo(name=ÃµÁ¶¼º, empire=0, mapIndex=183, pos=(9728, 1536))
+Sep  4 12:31:48 :: AddGotoInfo(name=±æµå³»ºÎ, empire=0, mapIndex=150, pos=(7936, 0))
+Sep  4 12:31:48 :: AddGotoInfo(name=OXÀÌº¥Æ®, empire=0, mapIndex=113, pos=(8964, 215))
+Sep  4 12:31:48 :: AddGotoInfo(name=em1, empire=0, mapIndex=181, pos=(1249, 3553))
+Sep  4 12:31:48 :: AddGotoInfo(name=em1, empire=0, mapIndex=182, pos=(2017, 3553))
+Sep  4 12:31:48 :: AddGotoInfo(name=em1, empire=0, mapIndex=183, pos=(2785, 3553))
+Sep  4 12:31:48 :: AddGotoInfo(name=heaven|Ãµ1, empire=0, mapIndex=64, pos=(2842, 8105))
+Sep  4 12:31:48 :: AddGotoInfo(name=heaven2|Ãµ2, empire=0, mapIndex=73, pos=(2418, 12750))
+Sep  4 12:31:48 :: AddGotoInfo(name=heaven3|Ãµ¿ë, empire=0, mapIndex=208, pos=(8192, 10496))
+Sep  4 12:31:48 :: Add Arena Map:112 startA(8534,101) startB(8564,101)
+Sep  4 12:31:48 :: Add Arena Map:112 startA(8584,101) startB(8614,101)
+Sep  4 12:31:48 :: Add Arena Map:112 startA(8534,155) startB(8564,155)
+Sep  4 12:31:48 :: Add Arena Map:112 startA(8584,155) startB(8614,155)
+Sep  4 12:31:48 :: AddGotoInfo(name=OXEVENT, empire=0, mapIndex=113, pos=(8964, 215))
+Sep  4 12:31:48 :: AddGotoInfo(name=MDred, empire=0, mapIndex=5, pos=(7752, 4482))
+Sep  4 12:31:48 :: AddGotoInfo(name=MDyellow, empire=0, mapIndex=25, pos=(8521, 4482))
+Sep  4 12:31:48 :: AddGotoInfo(name=MDblue, empire=0, mapIndex=45, pos=(9289, 4482))
+Sep  4 12:31:48 :: AddGotoInfo(name=MDmiddle, empire=0, mapIndex=108, pos=(1352, 6532))
+Sep  4 12:31:48 :: AddGotoInfo(name=MDexpert, empire=0, mapIndex=109, pos=(1353, 7299))
+Sep  4 12:31:48 :: AddGotoInfo(name=GZred, empire=0, mapIndex=4, pos=(1355, 49))
+Sep  4 12:31:48 :: AddGotoInfo(name=GZyellow, empire=0, mapIndex=24, pos=(2215, 103))
+Sep  4 12:31:48 :: AddGotoInfo(name=GZblue, empire=0, mapIndex=44, pos=(2715, 131))
+Sep  4 12:31:48 :: AddGotoInfo(name=sneak, empire=0, mapIndex=69, pos=(10590, 7262))
+Sep  4 12:31:48 :: AddGotoInfo(name=giant, empire=0, mapIndex=70, pos=(8192, 7168))
+Sep  4 12:31:48 :: AddGotoInfo(name=sd1, empire=0, mapIndex=104, pos=(600, 4970))
+Sep  4 12:31:48 :: AddGotoInfo(name=sd2, empire=0, mapIndex=71, pos=(7038, 4625))
+Sep  4 12:31:48 :: AddGotoInfo(name=flamed|Àû·æ¼º, empire=0, mapIndex=351, pos=(7777, 6504))
+Sep  4 12:31:48 :: bgm_info.add_info(1, 'enter_the_east.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(21, 'enter_the_east.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(41, 'enter_the_east.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(3, 'back_to_back.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(23, 'back_to_back.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(43, 'back_to_back.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(63, 'open_the_gate.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(69, 'open_the_gate.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(70, 'open_the_gate.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(67, 'a_rhapsody_of_war.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(68, 'lost_my_name.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(65, 'wonderland.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(61, 'mountain_of_death.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(64, 'save_me.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(74, 'mountain_of_death.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(75, 'follow_war_god.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(76, 'mountain_of_death.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(77, 'save_me.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(78, 'wonderland.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(104, 'Only_my_battle.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(62, 'follow_war_god.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(66, 'death_of_landmark.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(107, 'monkey_temple.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(108, 'monkey_temple.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(109, 'monkey_temple.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(114, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(115, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(116, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(117, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(118, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(119, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(120, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(121, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(122, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(123, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(124, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(125, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(126, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(127, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(128, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(181, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(182, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(183, 'last-war2.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(216, 'catacomb_of_devil.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(71, 'Only_my_battle.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(217, 'Only_my_battle.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(301, 'another_way.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(302, 'misty_forest.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(303, 'blacksea.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.add_info(304, 'mt.mp3', 0.500000)
+Sep  4 12:31:48 :: bgm_info.set_bgm_volume_enable
+Sep  4 12:31:48 :: LoadSettings(locale/turkey/settings.lua), returns 0
+Sep  4 12:31:48 :: LoadQuestlib(locale/turkey/quest/questlib.lua), returns 0
+Sep  4 12:31:48 :: LoadTranslate(locale/turkey/translate.lua), returns 0
+Sep  4 12:31:48 :: LoadQuestLocale(locale/turkey/quest/locale.lua), returns 0
+Sep  4 12:31:48 :: QUEST: Register    1 change_name
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/change_name, returns 0
+Sep  4 12:31:48 :: QUEST: Register    2 fisher
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/fisher, returns 0
+Sep  4 12:31:48 :: QUEST: Register    3 guild_war_observer
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_war_observer, returns 0
+Sep  4 12:31:48 :: QUEST: Register    4 guild_ranking
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_ranking, returns 0
+Sep  4 12:31:48 :: QUEST: Register    5 marriage_manage
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/marriage_manage, returns 0
+Sep  4 12:31:48 :: QUEST: Register    6 game_option
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/game_option, returns 0
+Sep  4 12:31:48 :: QUEST: Register    7 change_empire
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/change_empire, returns 0
+Sep  4 12:31:48 :: QUEST: Register    8 go_to_gretto
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/go_to_gretto, returns 0
+Sep  4 12:31:48 :: QUEST: Register    9 horse_guard
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_guard, returns 0
+Sep  4 12:31:48 :: QUEST: Register   10 alter_of_power
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/alter_of_power, returns 0
+Sep  4 12:31:48 :: QUEST: Register   11 charge_cash_by_voucher
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/charge_cash_by_voucher, returns 0
+Sep  4 12:31:48 :: QUEST: Register   12 costume_voucher
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/costume_voucher, returns 0
+Sep  4 12:31:48 :: QUEST: Register   13 horse_levelup
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_levelup, returns 0
+Sep  4 12:31:48 :: QUEST: Register   14 dragon_soul_shop
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/dragon_soul_shop, returns 0
+Sep  4 12:31:48 :: QUEST: Register   15 skill_group
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/skill_group, returns 0
+Sep  4 12:31:48 :: QUEST: Register   16 reset_scroll
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/reset_scroll, returns 0
+Sep  4 12:31:48 :: QUEST: Register   17 ride
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/ride, returns 0
+Sep  4 12:31:48 :: QUEST: Register   18 change_guild_master
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/change_guild_master, returns 0
+Sep  4 12:31:48 :: QUEST: Register   19 skill_reset2
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/skill_reset2, returns 0
+Sep  4 12:31:48 :: QUEST: Register   20 guild_building_melt
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_building_melt, returns 0
+Sep  4 12:31:48 :: QUEST: Register   21 cube
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/cube, returns 0
+Sep  4 12:31:48 :: QUEST: Register   22 beceri_degistir
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/beceri_degistir, returns 0
+Sep  4 12:31:48 :: QUEST: Register   23 ride_ticket_change
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/ride_ticket_change, returns 0
+Sep  4 12:31:48 :: QUEST: Register   24 horse_ride
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_ride, returns 0
+Sep  4 12:31:48 :: QUEST: Register   25 map_warp
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/map_warp, returns 0
+Sep  4 12:31:48 :: QUEST: Register   26 npc_talk
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/npc_talk, returns 0
+Sep  4 12:31:48 :: QUEST: Register   27 training_grandmaster_skill
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/training_grandmaster_skill, returns 0
+Sep  4 12:31:48 :: QUEST: Register   28 acce
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/acce, returns 0
+Sep  4 12:31:48 :: QUEST: Register   29 horse_revive
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_revive, returns 0
+Sep  4 12:31:48 :: QUEST: Register   30 warehouse
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/warehouse, returns 0
+Sep  4 12:31:48 :: QUEST: Register   31 upgrade_refine_scroll
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/upgrade_refine_scroll, returns 0
+Sep  4 12:31:48 :: QUEST: Register   32 guild_building
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_building, returns 0
+Sep  4 12:31:48 :: QUEST: Register   33 deviltower_zone
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/deviltower_zone, returns 0
+Sep  4 12:31:48 :: QUEST: Register   34 guild_war_join
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_war_join, returns 0
+Sep  4 12:31:48 :: QUEST: Register   35 basic_weapon
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/basic_weapon, returns 0
+Sep  4 12:31:48 :: QUEST: Register   36 neutral_warp
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/neutral_warp, returns 0
+Sep  4 12:31:48 :: QUEST: Register   37 reset_status
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/reset_status, returns 0
+Sep  4 12:31:48 :: QUEST: Register   38 servis
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/servis, returns 0
+Sep  4 12:31:48 :: QUEST: Register   39 item_change_sex
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/item_change_sex, returns 0
+Sep  4 12:31:48 :: QUEST: Register   40 fortune_telling
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/fortune_telling, returns 0
+Sep  4 12:31:48 :: QUEST: Register   41 horse_summon
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_summon, returns 0
+Sep  4 12:31:48 :: QUEST: Register   42 guild_war_bet
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_war_bet, returns 0
+Sep  4 12:31:48 :: QUEST: Register   43 dragon_soul_refine
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/dragon_soul_refine, returns 0
+Sep  4 12:31:48 :: QUEST: Register   44 horse_menu
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_menu, returns 0
+Sep  4 12:31:48 :: QUEST: Register   45 guild_building_npc
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/guild_building_npc, returns 0
+Sep  4 12:31:48 :: QUEST: Register   46 training_mount
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/training_mount, returns 0
+Sep  4 12:31:48 :: QUEST: Register   47 dragon_soul
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/dragon_soul, returns 0
+Sep  4 12:31:48 :: QUEST: Register   48 pet_system
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/pet_system, returns 0
+Sep  4 12:31:48 :: QUEST: Register   49 horse_exchange_ticket
+Sep  4 12:31:48 :: QUEST: loading locale/turkey/quest/object/state/horse_exchange_ticket, returns 0
+Sep  4 12:31:48 :: QUEST can open 'questnpc.txt' (locale/turkey/quest)
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/devil_stone5/take/deviltower_zone.start : deviltower_zone [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.1.script : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.start.0.script : warehouse [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.0.script : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.0.arg : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.0.when : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.start.0.when : warehouse [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.start.0.arg : warehouse [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.1.when : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/warehouse_keeper/chat/warehouse.use.1.arg : warehouse [STATE] use
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.2.when : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.0.arg : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.1.arg : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.1.script : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/fortune_telling.start.0.script : fortune_telling [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/fortune_telling.start.0.arg : fortune_telling [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.2.arg : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.2.script : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/fortune_telling.start.0.when : fortune_telling [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.1.when : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.0.script : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/oldwoman/chat/marriage_manage.start.0.when : marriage_manage [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.0.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.3.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.2.arg : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.4.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.1.script : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.1.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.0.when : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.0.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.1.when : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.1.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.1.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.2.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.3.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.4.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.0.arg : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.2.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.0.script : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.4.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.3.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.2.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.2.script : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.1.arg : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_ranking.start.2.when : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man1/chat/guild_building.start.0.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_observer.start.0.when : guild_war_observer [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_bet.start.0.when : guild_war_bet [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_observer.start.0.script : guild_war_observer [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_bet.start.0.script : guild_war_bet [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_bet.start.0.arg : guild_war_bet [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_war_observer1/chat/guild_war_observer.start.0.arg : guild_war_observer [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.2.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.1.script : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.2.arg : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.3.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.1.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.2.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.2.when : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.3.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.4.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.3.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.0.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.0.arg : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.0.script : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.0.when : guild_ranking [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.0.arg : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.4.when : guild_building [STATE] start
+Sep  4 12:31:48 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.2.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.1.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.1.arg : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.4.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.2.script : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_building.start.1.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.1.when : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man2/chat/guild_ranking.start.0.script : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_observer.start.0.script : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_bet.start.0.script : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_bet.start.0.arg : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_bet.start.0.when : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_observer.start.0.when : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer2/chat/guild_war_observer.start.0.arg : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.1.script : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.1.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.1.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.1.when : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.0.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.0.when : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.0.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.4.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.1.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.2.arg : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.3.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.0.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.2.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.2.when : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.1.arg : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.2.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.3.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.4.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.4.script : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.0.arg : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.0.script : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.3.when : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_building.start.2.arg : guild_building [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_man3/chat/guild_ranking.start.2.script : guild_ranking [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_bet.start.0.script : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_observer.start.0.when : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_bet.start.0.when : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_observer.start.0.arg : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_observer.start.0.script : guild_war_observer [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/guild_war_observer3/chat/guild_war_bet.start.0.arg : guild_war_bet [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/blacksmith/chat/npc_talk.start.0.when : npc_talk [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/blacksmith/chat/npc_talk.start.0.arg : npc_talk [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/blacksmith/chat/npc_talk.start.0.script : npc_talk [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_1/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_1/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_1/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_2/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_2/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_2/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_3/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_3/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_3/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_4/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_4/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_4/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_5/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_5/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_5/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_6/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_6/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_6/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_7/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_7/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_7/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_8/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_8/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group1_8/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_1/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_1/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_1/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_2/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_2/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_2/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_3/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_3/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_3/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_4/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_4/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_4/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_5/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_5/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_5/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_6/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_6/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_6/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_7/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_7/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_7/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_8/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_8/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group2_8/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_1/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_1/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_1/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_2/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_2/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_2/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_3/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_3/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_3/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_4/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_4/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_4/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_5/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_5/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_5/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_6/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_6/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_6/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_7/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_7/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_7/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_8/chat/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_8/chat/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/skill_group3_8/chat/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/deviltower_man/chat/deviltower_zone.start.0.arg : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/deviltower_man/chat/deviltower_zone.start.0.when : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/deviltower_man/chat/deviltower_zone.start.0.script : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/button/guild_war_join.start : guild_war_join [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/button/skill_group.run : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/enter/horse_guard.__COMPLETE__ : horse_guard [STATE] __COMPLETE__
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/enter/horse_summon.__COMPLETE__ : horse_summon [STATE] __COMPLETE__
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/enter/horse_exchange_ticket.__COMPLETE__ : horse_exchange_ticket [STATE] __COMPLETE__
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/enter/horse_revive.__COMPLETE__ : horse_revive [STATE] __COMPLETE__
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/info/skill_group.run : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/kill/dragon_soul.farming : dragon_soul [STATE] farming
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/kill/deviltower_zone.start : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/leave/skill_group.run : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/letter/skill_group.run : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/letter/guild_war_join.start : guild_war_join [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/levelup/dragon_soul.start : dragon_soul [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/levelup/go_to_gretto.start : go_to_gretto [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/levelup/skill_group.start : skill_group [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/dragon_soul.start : dragon_soul [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/deviltower_zone.start : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/skill_group.run : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/game_option.start : game_option [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/basic_weapon.start : basic_weapon [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/ride.start : ride [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/skill_group.start : skill_group [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/login/go_to_gretto.start : go_to_gretto [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/logout/deviltower_zone.start : deviltower_zone [STATE] start
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.7.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.2.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.5.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.5.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.0.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.4.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.3.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.1.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.5.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.1.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.4.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.3.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.3.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.0.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.7.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.7.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.2.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.0.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.6.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.1.arg : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.6.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.2.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.4.script : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST loading locale/turkey/quest/object/notarget/target/skill_group.run.6.when : skill_group [STATE] run
+Sep  4 12:31:49 :: QUEST eventflag guild_withdraw_delay 1 prev_value 0
+Sep  4 12:31:49 :: QUEST eventflag guild_disband_delay 1 prev_value 0
+Sep  4 12:31:49 :: Initializing Guild
+Sep  4 12:31:49 :: FISH: ²Î                       vnum     0 prob 3000 3000 2100 2000 len 0 0 0
+Sep  4 12:31:49 :: FISH: ±Ý¹ÝÁö                   vnum 50002 prob   50   50  200  200 len 0 0 0
+Sep  4 12:31:49 :: FISH: ÇÇ¶ó¹Ì                   vnum 27802 prob 2000 1800  800 2200 len 500 550 600
+Sep  4 12:31:49 :: FISH: ºØ¾î                     vnum 27803 prob 1950 1600  800  700 len 1000 2500 2800
+Sep  4 12:31:49 :: FISH: ½î°¡¸®                   vnum 27804 prob  900  800  700  600 len 2000 3500 3800
+Sep  4 12:31:49 :: FISH: ¿ùÃ´ºØ¾î                 vnum 27805 prob  700  700  700  600 len 3030 3500 4300
+Sep  4 12:31:49 :: FISH: À×¾î                     vnum 27806 prob  200  300  600  800 len 4000 6000 10000
+Sep  4 12:31:49 :: FISH: ¿¬¾î                     vnum 27807 prob  200  200  500  600 len 6000 8000 10000
+Sep  4 12:31:49 :: FISH: Çâ¾î                     vnum 27808 prob  100  100  250  200 len 1500 3000 3800
+Sep  4 12:31:49 :: FISH: ¼Û¾î                     vnum 27809 prob  100  100  250  350 len 5000 7000 8000
+Sep  4 12:31:49 :: FISH: ¹Î¹°Àå¾î                 vnum 27810 prob    0  100  250  200 len 4000 5000 6000
+Sep  4 12:31:49 :: FISH: ¹«Áö°³¼Û¾î               vnum 27811 prob    0  100  250  150 len 5000 7000 8000
+Sep  4 12:31:49 :: FISH: °­¼Û¾î                   vnum 27812 prob    0  100  250  150 len 4000 6000 7000
+Sep  4 12:31:49 :: FISH: ·¯µå                     vnum 27813 prob    0  100  200  100 len 4000 6000 10000
+Sep  4 12:31:49 :: FISH: ÆÛÄ¡                     vnum 27814 prob    0  100  200  100 len 3000 4000 5000
+Sep  4 12:31:49 :: FISH: ÅÙÄ¡                     vnum 27815 prob    0   50  200  100 len 3500 5500 8000
+Sep  4 12:31:49 :: FISH: ¸Þ±â                     vnum 27816 prob   50   50  200  100 len 3000 5000 10000
+Sep  4 12:31:49 :: FISH: ¹Ì²Ù¶óÁö                 vnum 27817 prob    0    0    0    0 len 1800 2200 3000
+Sep  4 12:31:49 :: FISH: ¹é·Ã                     vnum 27818 prob   50   50  200  100 len 5000 8000 10000
+Sep  4 12:31:49 :: FISH: Àº¾î                     vnum 27819 prob    0    0    0    0 len 1500 3000 3800
+Sep  4 12:31:49 :: FISH: ºù¾î                     vnum 27820 prob    0    0    0    0 len 1500 3000 3800
+Sep  4 12:31:49 :: FISH: ½¬¸®                     vnum 27821 prob    0    0    0    0 len 1000 1500 2000
+Sep  4 12:31:49 :: FISH: ºñ´ÃÀ×¾î                 vnum 27822 prob    0    0    0    0 len 4000 6000 10000
+Sep  4 12:31:49 :: FISH: È²±ÝºØ¾î                 vnum 27823 prob    0    0    0    0 len 1000 3000 3500
+Sep  4 12:31:49 :: FISH: Å»»ö¾à                   vnum 70201 prob  100  100    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¿°»ö¾à(Èò»ö)             vnum 70202 prob   85   85    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¿°»ö¾à(±Ý»ö)             vnum 70203 prob   85   85    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¿°»ö¾à(»¡°£»ö)           vnum 70204 prob   85   85    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¿°»ö¾à(°¥»ö)             vnum 70205 prob   85   85    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¿°»ö¾à(°ËÀº»ö)           vnum 70206 prob   85   85    0    0 len 0 0 0
+Sep  4 12:31:49 :: FISH: ÀºµÐÀÚÀÇ ¸ÁÅä            vnum 70048 prob   25   25  200  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: Çà¿îÀÇ ¹ÝÁö              vnum 70049 prob   25   25  200  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¼±¿ÕÀÇ ÁõÇ¥              vnum 70050 prob   25   25  200  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: ¼±¿ÕÀÇ Àå°©              vnum 70051 prob   25   25  200  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: ±Ýµ¢¾î¸®                 vnum 80008 prob   25   25  100  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: Àº¿­¼è                   vnum 50009 prob    0    0  150  100 len 0 0 0
+Sep  4 12:31:49 :: FISH: ±Ý¿­¼è                   vnum 50008 prob    0    0  100   50 len 0 0 0
+Sep  4 12:31:49 :: FISH: prob table 0 9950
+Sep  4 12:31:49 :: FISH: prob table 1 9950
+Sep  4 12:31:49 :: FISH: prob table 2 9800
+Sep  4 12:31:49 :: FISH: prob table 3 9900
+Sep  4 12:31:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:49 :: Cube_Init locale/turkey/cube.txt
+Sep  4 12:31:49 :: Blend_Item_init locale/turkey/blend.txt 
+Sep  4 12:31:50 :: [PackageCryptInfo] . is not crypt file. pass!
+Sep  4 12:31:50 :: [PackageCryptInfo] .. is not crypt file. pass!
+Sep  4 12:31:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:31:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:31:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:31:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:31:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:31:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:31:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:31:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:14 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:32:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:32:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:32:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:14 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:33:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:33:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:33:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:14 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:34:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:34:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:34:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:14 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:35:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:35:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:35:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:14 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:36:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:36:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:36:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:10 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:11 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:12 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:12 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:12 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:13 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:15 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:15 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:15 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:16 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:17 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:18 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:18 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:18 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:19 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:20 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:21 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:21 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:21 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:22 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:23 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:24 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:24 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:24 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:25 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:26 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:27 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:27 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:27 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:28 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:29 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:30 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:30 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:30 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:31 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:32 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:33 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:33 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:33 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:34 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:35 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:36 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:36 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:36 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:37 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:38 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:39 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:39 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:39 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:40 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:41 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:42 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:42 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:42 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:43 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:44 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:45 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:45 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:45 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:46 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:47 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:48 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:48 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:48 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:49 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:50 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:51 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:51 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:51 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:52 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:53 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:54 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:54 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:54 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:55 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:56 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:57 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:37:57 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:37:57 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:58 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:37:59 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:00 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:38:00 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:38:00 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:01 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:02 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:03 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:38:03 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:38:03 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:04 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:05 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:06 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:38:06 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:38:06 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:07 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:08 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected
+Sep  4 12:38:09 :: SYSTEM: Trying to connect to 127.0.0.1:30000
+SYSERR: Sep  4 12:38:09 :: socket_connect: HOST 127.0.0.1:30000, could not connect.
+Sep  4 12:38:09 :: CLIENT_DESC [db_clientdesc] trying DBPacket() while not connected

@@ -1,0 +1,21 @@
+ScriptType               MotionData
+
+MotionFileName           "D:\ymir work\npc\plechi_summer2019_object4\stay00.GR2"
+MotionDuration           0.333333
+
+Group MotionEventData
+{
+    MotionEventDataCount     1
+    Group Event00
+    {
+        MotionEventType      1
+        StartingTime         0.000000
+        
+        IndependentFlag      0
+        AttachingEnable      1
+        AttachingBoneName    "obj01a_frag_007"
+        FollowingEnable      1
+        EffectFileName       "d:/ymir work/effect/plechito/npc/summer2019_npc4_eff.mse"
+        EffectPosition       0.000000 0.000000 0.000000
+    }
+}

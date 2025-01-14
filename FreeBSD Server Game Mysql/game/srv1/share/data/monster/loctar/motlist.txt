@@ -1,0 +1,19 @@
+GENERAL RUN run.msa 100
+GENERAL NORMAL_ATTACK attack.msa 70
+GENERAL NORMAL_ATTACK1 pokroe_2.msa 30
+GENERAL FRONT_DEAD dead.msa 100
+GENERAL WAIT wait.msa 100
+GENERAL RUN run.msa 100
+GENERAL FRONT_DAMAGE damage_2.msa 100
+GENERAL FRONT_DEAD dead.msa 100
+GENERAL FRONT_KNOCKDOWN damage_flying.msa 100
+GENERAL FRONT_STANDUP falling_stand.msa 100
+GENERAL BACK_KNOCKDOWN back_damage_flying.msa 100
+GENERAL BACK_STANDUP back_falling_stand.msa 100
+
+
+
+
+
+
+

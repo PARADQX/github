@@ -1,0 +1,22 @@
+GENERAL RUN run.msa 100
+GENERAL NORMAL_ATTACK amseup_4.msa 20
+GENERAL NORMAL_ATTACK1 cheonryong_4.msa 20
+GENERAL NORMAL_ATTACK2 poison_cloud.msa 20
+GENERAL NORMAL_ATTACK3 charyun_4.msa 20
+GENERAL SPECIAL eunhyeong_4.msa 100
+GENERAL FRONT_DEAD dead.msa 100
+GENERAL WAIT wait.msa 100
+GENERAL RUN run.msa 100
+GENERAL FRONT_DAMAGE damage.msa 100
+GENERAL FRONT_DEAD dead.msa 100
+GENERAL FRONT_KNOCKDOWN damage_flying.msa 100
+GENERAL FRONT_STANDUP falling_stand.msa 100
+GENERAL BACK_KNOCKDOWN back_damage_flying.msa 100
+GENERAL BACK_STANDUP back_falling_stand.msa 100
+
+
+
+
+
+
+

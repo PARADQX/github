@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Tellwait.cpp
+  Statement.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libsql\AsyncSQL.h(11,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Semaphore.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libsql\AsyncSQL.h(11,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  AsyncSQL.cpp
+D:\Workshop\Metin2\TurkmmoSF\source\server\Server\libsql\AsyncSQL.h(11,10): fatal error C1083: Cannot open include file: 'mysql/mysql.h': No such file or directory
+  Generating Code...

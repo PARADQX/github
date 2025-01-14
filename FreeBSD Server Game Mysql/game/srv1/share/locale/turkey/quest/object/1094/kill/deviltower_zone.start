@@ -1,0 +1,3 @@
+if pc . in_dungeon ( ) and pc . get_map_index ( ) >= 660000 and pc . get_map_index ( ) < 670000 then d . notice ( "Kral yok edildi.Mavi Olum intikam icin geliyor.." ) 
+timer ( "devil_bt_jump" , 15 ) 
+ return end 

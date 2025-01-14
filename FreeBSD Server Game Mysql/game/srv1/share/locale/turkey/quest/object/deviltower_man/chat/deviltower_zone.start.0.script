@@ -1,0 +1,28 @@
+if pc . get_level ( ) < 30 then 
+say_title ( "Þeytan Kulesi Bekçisi:" ) 
+say ( "Seviyen giriþ için yeterli deðil." ) 
+return 
+else 
+say_title ( "Þeytan Kulesi Bekçisi:" ) 
+say ( "Þeytan kulesine girmek istiyor musun?" ) 
+say ( "2. Kattan devam etmek isterseniz 25M yang gerekmektedir." ) 
+say_reward ( "Oyundan istemediðiniz halde çýkarsanýz" ) 
+say_reward ( "Kaldýðýnýz yerden devam edebilirsiniz!" ) 
+local s = select ( "Gir." , "2.Kat'a Giriþ Yap." , "Ýstemiyorum." ) 
+if s == 1 then 
+pc . warp ( 216500 , 727000 ) 
+elseif s == 2 then 
+if pc . get_money ( ) < 2.5e+07 then 
+say ( "Hay Aksi!" ) 
+say ( "Envanterine 25M yang olmadan seni içeri alamam." ) 
+say ( "25M yang yaptýðýnda tekrar uðra." ) 
+else 
+pc . change_money ( - 2.5e+07 ) 
+d . new_jump ( 66 , special . devil_tower [ 1 ] [ 1 ] * 100 , special . devil_tower [ 1 ] [ 2 ] * 100 ) 
+d . regen_file ( "data/dungeon/deviltower2_regen.txt" ) 
+d . set_warp_at_eliminate ( 4 , d . get_map_index ( ) , special . devil_tower [ 2 ] [ 1 ] , special . devil_tower [ 2 ] [ 2 ] , "data/dungeon/deviltower3_regen.txt" ) 
+end 
+elseif s == 3 then 
+return 
+end 
+end 

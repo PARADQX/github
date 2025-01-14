@@ -1,0 +1,18 @@
+ScriptType            RaceDataScript
+
+BaseModelFileName     "D:\Ymir Work\npc2\terabithia_shop_2\terabithia_shop_2.GR2"
+
+Group ShapeData
+{
+	PathName		 "D:\Ymir Work\npc2\terabithia_shop_2\"
+	ShapeDataCount		 1
+
+	Group ShapeData00
+	{
+		ShapeIndex			0
+
+		Model				"terabithia_shop_2.GR2"
+		SourceSkin			"qa023_1a.dds"
+		TargetSkin			"qa023_1a.dds"
+	}
+}
